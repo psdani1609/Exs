@@ -1,0 +1,4 @@
+tab = int(input('Digite a tabuada: '))
+for i in range(11):
+    print(f'{tab} x {i} = {tab*i}')
+          
